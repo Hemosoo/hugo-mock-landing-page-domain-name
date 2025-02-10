@@ -1,7 +1,7 @@
-#User Stories for PokerTeacher
+#User Stories for PokerHelper
 
 ##Current Features
-These are features that are currently implemented in PokerTeacher.
+These are features that are currently implemented in PokerHelper.
 
 ###Illustrated Features
 
@@ -21,7 +21,7 @@ These are features that are currently implemented in PokerTeacher.
 1. As a student, I want to receive personalized study recommendations based on my weaknesses, ensuring my training is focused and efficient.
 2. As a coach, I want to host live coaching sessions with screen-sharing and interactive hand discussions, making real-time feedback possible.
 3. As a player, I want to simulate poker hands against an AI opponent, practicing different strategies in a risk-free environment.
-4. As a user, I want to integrate my online poker site account with PokerTeacher, automatically importing hand histories for analysis.
+4. As a user, I want to integrate my online poker site account with PokerHelper, automatically importing hand histories for analysis.
 5. As a student, I want to track my bankroll and performance over time, helping me manage my poker finances responsibly.
 6. As a coach, I want to create and sell poker courses, providing structured learning paths for different skill levels.
 7. As a player, I want to filter and analyze my hands based on game type, position, and opponent tendencies, making my review process more efficient.
