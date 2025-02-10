@@ -28,5 +28,3 @@ These are features that are currently implemented in PokerTeacher.
 8. As a user, I want to receive notifications when a new lesson, challenge, or coaching session is available, keeping me engaged in my learning.
 9. As a student, I want to compete in leaderboards based on quiz performance and study activity, adding a gamified learning experience.
 10. As a coach, I want to create preflop and postflop charts that my students can reference, reinforcing correct strategy decisions.
-11. As a system administrator, I want to ensure all uploaded hand histories are encrypted, protecting users’ sensitive game data.
-12. As a developer, I want to build plugins or integrations for PokerTeacher, enhancing its features and customization for different learning styles.
